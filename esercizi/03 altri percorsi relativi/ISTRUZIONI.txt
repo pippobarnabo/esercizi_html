@@ -1,0 +1,7 @@
+Esercizio: immagini e percorsi relativi
+
+La cartella in cui hai trovato questo file contiene, organizzati in varie cartelle, un file html e alcune immagini.
+Apri il file html con Notepad++ e inserisci le immagini dove indicato nei commenti.
+
+Questo è un esercizio sui percorsi relativi.
+VIETATO SPOSTARE le immagini dalla posizione in cui si trovano!

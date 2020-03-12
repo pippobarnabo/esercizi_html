@@ -1,0 +1,6 @@
+Riproduci la pagina mostrata nel file scuola.pdf usando i testi contenuti nel file TESTI.txt.
+Le immagini sono nella cartella immagini.
+
+Il collegamento ipertestuale (link) in fondo alla pagina punti al sito web http://www.galileicrema.it
+
+Tag utili: h1 e h2 (intestazioni), p (paragrafi), strong (grassetto), em (corsivo), img (immagini), ul e li (elenchi puntati), a (collegamenti ipertestuali).

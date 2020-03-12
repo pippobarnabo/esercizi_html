@@ -1,0 +1,13 @@
+Esercitazione: immagini e percorsi relativi
+
+Apri la cartella Esempio1: troverai, in varie sottocartelle, un file html (vuoto) e l'immagine di un gatto.
+Senza spostare i file, scrivi il contenuto del file html in modo che venga visualizzata l'immagine del gatto.
+    1. Scrivi la struttura base del documento html (vedi dispensa)
+    2. Inserisci l'immagine (tag img, cercala nell’elenco a pagina 3 della dispensa) nel corpo (body) del documento.
+    3. A seconda della posizione dell'immagine rispetto al documento html, compila l'attributo src, 
+       scrivendo IL PERCORSO RELATIVO CORRETTO dell'immagine.
+
+Anche le cartelle Esempio2 ed Esempio3 contengono, in varie sottocartelle, un file html vuoto e l'immagine di un gatto.
+Scrivi il contenuto del file html anche per le cartelle Esempio2 ed Esempio3.
+
+Alla fine dovresti ottenere 3 file html che mostrano l'immagine del gatto.
